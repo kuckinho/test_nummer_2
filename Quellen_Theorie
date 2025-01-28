@@ -1,0 +1,23 @@
+// test nummer zwei
+
+// CooooPiiiii juuuunge
+
+Was sind Entwurfsmuster in der Programmierung?
+
+Entwurfsmuster (Design Patterns) sind bewährte Lösungen für wiederkehrende Probleme in der Softwareentwicklung. Sie bieten standardisierte Ansätze, um häufig auftretende Designprobleme zu lösen und die Softwarearchitektur zu verbessern. Es gibt drei Hauptkategorien von Entwurfsmustern:
+
+1. **Erzeugungsmuster (Creational Patterns)**: Diese Muster befassen sich mit der Erzeugung von Objekten und helfen, die Komplexität der Objektinstanziierung zu reduzieren.
+   - Beispiele: Singleton, Factory Method, Abstract Factory, Builder, Prototype
+
+2. **Strukturmuster (Structural Patterns)**: Diese Muster befassen sich mit der Zusammensetzung von Klassen und Objekten, um größere Strukturen zu bilden.
+   - Beispiele: Adapter, Composite, Proxy, Flyweight, Facade, Bridge, Decorator
+
+3. **Verhaltensmuster (Behavioral Patterns)**: Diese Muster befassen sich mit der Interaktion und Kommunikation zwischen Objekten.
+   - Beispiele: Observer, Strategy, Command, State, Chain of Responsibility, Mediator, Memento, Visitor, Template Method, Iterator
+
+Entwurfsmuster helfen Entwicklern, wiederverwendbare und wartbare Software zu schreiben, indem sie bewährte Lösungen und Best Practices bereitstellen.
+
+
+Was ist ein Interface in der Programmierung?
+
+
